@@ -3,3 +3,4 @@ A- Sí
 B- Sí
 C- Sí ven el archivo.
 D- Mediante la aplicacion de WhatsApp.
+E- La mejor forma de comunicarse entre nosotros dentro de github es usando las cards.
